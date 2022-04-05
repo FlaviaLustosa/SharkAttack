@@ -16,7 +16,7 @@ Os dados foram retirados do https://www.kaggle.com/datasets/teajay/global-shark-
 
 A tabela inicial tinham 25723 linhas em 24 colunas mas a maioria dos dados eram nulos, como pode ver no grafico abaixo:
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/FlaviaLustosa/SharkAttack/blob/main/Grafico1.PNG" width="380" height="213">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/FlaviaLustosa/SharkAttack/blob/main/Grafico3.PNG" width="380" height="213">
 
 Apos limpeza ficamos com 6302 linhas.
 
